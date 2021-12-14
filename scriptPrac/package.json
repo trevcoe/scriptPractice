@@ -1,0 +1,19 @@
+{
+  "name": "scriptprac",
+  "version": "1.0.0",
+  "description": "Async and Scripting Practice",
+  "main": "urls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevcoe/scriptPractice.git"
+  },
+  "author": "Trevor Coe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trevcoe/scriptPractice/issues"
+  },
+  "homepage": "https://github.com/trevcoe/scriptPractice#readme"
+}
